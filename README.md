@@ -1,4 +1,4 @@
-# lateral_movement
+# Lateral Movement
 Notes and stuff to become an expert in lateral movement
 
 # Ideas for dashboard
