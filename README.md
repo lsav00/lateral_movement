@@ -1,6 +1,10 @@
 # Lateral Movement
 Notes and stuff to become an expert in lateral movement
 
+# Wireshark Stuff
+
+
+
 # Ideas for dashboard
 - FTP anomalies
 - SMB anomalies
